@@ -1,0 +1,1 @@
+Redirect for alekseiaq.github.io
